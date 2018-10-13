@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "http-server docs -p8080 -c-1"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
