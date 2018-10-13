@@ -23,12 +23,12 @@
 	float: right;
 	height: 400px;
 	vertical-align: top;
-	width: 400px;
 }
 
 .reveal section blockquote {
 	font-size: .7em;
 	background: none;
+	box-shadow: none;
 }
 
 .reveal .progress,
